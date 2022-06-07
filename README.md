@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Tayyab
-## Front-End/Fullstack Developer
+## Front-End / Fullstack Developer
 
 
 ![Front-End/Fullstack Developer](https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-4296.jpg?w=400)

@@ -10,6 +10,7 @@ Skills: REACT / JAVASCRIPT /  HTML / CSS / Node / MongoDB
 - 🔭 I’m currently working on https://rgroci.netlify.app/ 
 - 🌱 I’m currently learning Typescript, Sveltekit 
 - 📫 How to reach me: https://twitter.com/hey_its_tay11 
+- Portifolio: https://tayyabv011.netlify.app/
 
 
 
